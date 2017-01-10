@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/film/film",
+    "pages/film/detail/detail",
+    "pages/cinema/cinema",
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#dd4021",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{  
+      "selectedColor":"#3cc51f",  
+      "color": "#999",  
+      "backgroundColor":"#f8f8f8",  
+      "list":[{  
+          "text" : "电影",  
+          "pagePath" : "pages/film/film"
+      },{  
+          "text" : "影院",  
+          "pagePath" : "pages/cinema/cinema"
+      },{  
+          "text":"我的",  
+          "pagePath" : "pages/mine/mine"
+      }]
+  }
+}

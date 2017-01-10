@@ -1,0 +1,7 @@
+// mine.js
+
+Page({
+	data: {
+
+	}
+})
