@@ -12,9 +12,9 @@ api是使用的http://www.jianshu.com/p/9855610eb1d4
 
 # 展示
 
-![img_1](/Users/wang/Desktop/wx-maoyan_1/img_1.png)
+![img_1](https://raw.githubusercontent.com/825618507/wx-maoyan/master/img_1.png)
 
-![img_2](/Users/wang/Desktop/wx-maoyan_1/img_2.png)
+![img_2](https://raw.githubusercontent.com/825618507/wx-maoyan/master/img_2.png)
 
 ## 使用
 
