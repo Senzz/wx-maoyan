@@ -10,6 +10,12 @@ api是使用的http://www.jianshu.com/p/9855610eb1d4
 
 侵权请联系我删除，QQ: 825618507
 
+# 展示
+
+![img_1](/Users/wang/Desktop/wx-maoyan_1/img_1.png)
+
+![img_2](/Users/wang/Desktop/wx-maoyan_1/img_2.png)
+
 ## 使用
 
 首先需要注册个微信小程序的账号啦，这个就不说了。
